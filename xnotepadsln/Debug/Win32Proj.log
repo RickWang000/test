@@ -1,0 +1,4 @@
+﻿  Assembling main.asm...
+main.asm(65): warning A4014: instructions and initialized data not supported in BSS segments
+main.asm(356): warning A6004: procedure argument or local not referenced : @openFileNameStruct
+  Win32Proj.vcxproj -> D:\_SchoolWork\31class\Assembly\hw\assbig\Debug\WindowsProj.exe
